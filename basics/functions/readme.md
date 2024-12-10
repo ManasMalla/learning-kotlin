@@ -13,5 +13,5 @@ Eg: `print()`, `goToGITAM()`, `callKavya()`
 
 ## Programs
 
-* Introduction.kt - A simple program in Kotlin to understand functions, their syntax, and power
+* [Introduction.kt](Introduction.kt) - A simple program in Kotlin to understand functions, their syntax, and power
 * RecieptGenerator.kt - A simple program to generate a receipt for a bakery.
