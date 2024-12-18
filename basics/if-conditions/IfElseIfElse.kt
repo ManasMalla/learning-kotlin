@@ -22,3 +22,26 @@ fun divisbleBy6(a: Int){
     println("The given number, $a is not divisible by 2 and 3. Hence is not divisible by 6.")
   }
 }
+
+
+/*     
+* This way of checking condition checks all the cases and print them individually instead of assuming them to be a single case.
+  
+   if(a % 2 == 0 && a % 3 == 0){
+       println("The given number,$a is divisible by 6")
+   }
+   if(a % 2 == 0){
+       println("The given number,$a is divisible by 2")
+   }
+   if(a % 3 == 0){
+       println("The given number,$a is divisible by 3")
+   }else{
+       println("The given number,$a is not divisible by 2 nor 3 nor 6")
+   }
+
+   Input: 6
+   Output: The given number, 6 is divisible by 6.
+           The given number, 6 is divisible by 2.
+           The given number, 6 is divisible by 3.
+
+*/
