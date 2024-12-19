@@ -23,3 +23,5 @@ Eg: `addMatrices()`, `checkIfPalindrome()`, `isPrime()`
 
 - [DigitDivision.kt](OrderReciept.kt) - A simple program to find out the number of digits in a number which exactly divide a given number.
   [(Link to problem)](https://www.geeksforgeeks.org/problems/count-digits5716/1)
+
+- [ReverseNumber.kt](ReverseNumber.kt) - A simple program in Kotlin to reverse a given number using while loops and place value system.[(Link to problem)](https://leetcode.com/problems/reverse-integer/)
