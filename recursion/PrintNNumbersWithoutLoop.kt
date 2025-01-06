@@ -21,7 +21,7 @@ fun functionalRecursion(i:Int, n: Int){
 }
 
 /*
- * Approach 2: With a variable
+ * Approach 2 (Better Approach): With a variable
  */
  
  var i = 1
