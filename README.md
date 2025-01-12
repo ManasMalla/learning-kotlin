@@ -6,3 +6,4 @@ A series of programs in the Kotlin programming language to help learn the concep
 
 1. [Basics of Kotlin](basics/README.md)
 2. [Patterns](patterns/README.md)
+3. [Recursion](recursion/README.md)
